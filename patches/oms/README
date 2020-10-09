@@ -7,9 +7,9 @@ HOW TO USE IT?
 ==============
 
 Needs to be patched directly after fresh LineageOS14.1 repo sync
-Patches needs to stay here: $REPO/device/CUBOT/NOTE_S/patches/oms
+Patches needs to stay here: $REPO/device/wolder/wiam_24/patches/oms
 now start patches: 
-1. cd device/CUBOT/NOTE_S/patches/oms
+1. cd device/wolder/wiam_24/patches/oms
 2. bash apply-oms.sh
 
 Notice

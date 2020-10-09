@@ -1,2 +1,2 @@
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/lineage_NOTE_S.mk
+    $(LOCAL_DIR)/lineage_wiam_24.mk

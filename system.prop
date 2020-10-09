@@ -1,5 +1,5 @@
 # system.prop
-# CUBOT NOTE_S
+# wolder Wiam 24
 
 # MTK, Infinity, 20090720 {
 wifi.interface=wlan0
@@ -55,7 +55,7 @@ ro.mtk_perf_simple_start_win=1
 ro.mtk_perf_response_time=1
 
 # Time Zone
-persist.sys.timezone=Europe/Berlin
+persist.sys.timezone=Europe/Madrid
 
 # ClearMotion
 persist.sys.display.clearMotion=0
