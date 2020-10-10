@@ -14,9 +14,9 @@
 # limitations under the License.
 #
 
-ifneq ($(filter NOTE_S,$(TARGET_DEVICE)),)
+ifneq ($(filter wiam_24,$(TARGET_DEVICE)),)
 
-LOCAL_PATH := device/CUBOT/NOTE_S/
+LOCAL_PATH := device/wolder/wiam_24/
 
 include $(call all-makefiles-under,$(LOCAL_PATH))
 

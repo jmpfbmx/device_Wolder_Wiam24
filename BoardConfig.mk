@@ -14,7 +14,7 @@
 # limitations under the License.
 #
 
-LOCAL_PATH := device/CUBOT/NOTE_S
+LOCAL_PATH := device/wolder/wiam_24
 
 TARGET_BOARD_PLATFORM := mt6580
 TARGET_BOOTLOADER_BOARD_NAME := mt6580
