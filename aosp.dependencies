@@ -1,0 +1,8 @@
+[
+  {
+    "remote": "github",
+    "repository":  "jmpfbmx/vendor_Wolder_Wiam24",
+    "target_path": "vendor/wolder/wiam_24",
+    "branch": "los-14.1"
+  }
+]
