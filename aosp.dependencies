@@ -1,6 +1,12 @@
 [
   {
     "remote": "github",
+    "repository":  "jmpfbmx/android_device_sample",
+    "target_path": "device/sample",
+    "branch": "7.x"
+  },
+  {
+    "remote": "github",
     "repository":  "jmpfbmx/vendor_Wolder_Wiam24",
     "target_path": "vendor/wolder/wiam_24",
     "branch": "los-14.1"
