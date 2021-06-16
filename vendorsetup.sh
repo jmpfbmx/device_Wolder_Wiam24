@@ -1,0 +1,3 @@
+add_lunch_combo omni_wiam24-eng
+add_lunch_combo omni_wiam24-userdebug
+add_lunch_combo omni_wiam24-user
